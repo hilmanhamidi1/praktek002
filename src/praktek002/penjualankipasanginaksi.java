@@ -7,5 +7,7 @@ public class penjualankipasanginaksi {
           
           r1.harga_kipas = 300000;
           r1.jumlah_kipas = 2;
+          
+          r1.tampildata();
     }
 }

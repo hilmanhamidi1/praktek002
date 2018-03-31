@@ -1,14 +1,16 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package praktek002;
 
-/**
- *
- * @author Acer
- */
+
 public class penjualankipasangin {
-    
+   int harga_kipas;
+   int jumlah_kipas;
+   
+   void tampildata(){
+    System.out.println("============================");
+    System.out.println("harga_kipas   :"+harga_kipas);
+    System.out.println("jumlah_kipas  :"+jumlah_kipas);
+    System.out.println("============================");
+   
+   }
+           
 }

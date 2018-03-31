@@ -12,5 +12,9 @@ public class penjualankipasangin {
     System.out.println("============================");
    
    }
-           
+           int hitungpembelian(){
+                int total;
+                total=harga_kipas*jumlah_kipas;
+                return total;
+           }
 }

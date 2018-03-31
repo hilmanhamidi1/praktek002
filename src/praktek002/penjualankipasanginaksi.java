@@ -9,5 +9,11 @@ public class penjualankipasanginaksi {
           r1.jumlah_kipas = 2;
           
           r1.tampildata();
+  
+          System.out.println("total kipasangin  ="+r1.hitungpembelian());
+          
+    
+                
+          
     }
 }

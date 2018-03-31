@@ -17,4 +17,8 @@ public class penjualankipasangin {
                 total=harga_kipas*jumlah_kipas;
                 return total;
            }
+           void cetaktotal(){
+               System.out.println("totalnya :"+hitungpembelian());
+                       
+           }
 }

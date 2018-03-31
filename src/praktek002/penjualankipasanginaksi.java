@@ -11,6 +11,13 @@ public class penjualankipasanginaksi {
           r1.tampildata();
             System.out.println("total kipasangin  ="+r1.hitungpembelian());
             r1.cetaktotal();
+            
+            penjualankipasangin r2 = new penjualankipasangin();
+            r2.tampildata();
+            
+            penjualankipasangin r3 = new penjualankipasangin(100000,4);
+            r3.tampildata();
+            
    
                 
           

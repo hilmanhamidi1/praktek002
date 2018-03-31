@@ -9,6 +9,11 @@ public class penjualankipasangin {
         harga_kipas=200000;
         jumlah_kipas=2;
     }
+
+    public penjualankipasangin(int harga_kipas, int jumlah_kipas) {
+        this.harga_kipas = harga_kipas;
+        this.jumlah_kipas = jumlah_kipas;
+    }
    
    
    
